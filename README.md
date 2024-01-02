@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Karki</h1>
 <h3 align="center">A passionate Python developer from Nepal</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-karki&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-karki" /> </p>
 
 <h3 align="left">Connect with me:</h3>
