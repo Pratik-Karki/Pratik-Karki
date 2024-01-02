@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-karki&show_icons=true&locale=en" alt="pratik-karki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-karki&" alt="pratik-karki" /></p>
+
